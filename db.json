@@ -2,12 +2,12 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Mouse Microsoft",
+      "nome": "mouse microsoft",
       "valor": 15.90,
       "promocao": false,
       "valorPromo": 0,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "mouse.jpg"
+      "imagem": "mouse.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "promocao": false,
       "valorPromo": 0,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "teclado.jpg"
+      "imagem": "teclado.png"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "promocao": false,
       "valorPromo": 0,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "monitor.jpg"
+      "imagem": "monitor.png"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "promocao": true,
       "valorPromo": 999.90,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "laptop.jpg"
+      "imagem": "laptop.png"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "promocao": false,
       "valorPromo": 0,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "headset.jpg"
+      "imagem": "headset.png"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "promocao": true,
       "valorPromo": 49.99,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "webcam.jpg"
+      "imagem": "webcam.png"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "promocao": false,
       "valorPromo": 0,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "celular.jpg"
+      "imagem": "celular.png"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "promocao": false,
       "valorPromo": 0,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "mousepad.jpg"
+      "imagem": "mousepad.png"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "promocao": false,
       "valorPromo": 0,
       "descricao": "Os computadores ocupavam vários metros quadrados, e eram utilizados cartões perfurados para armazenar.",
-      "imagem": "gopro.jpg"
+      "imagem": "gopro.png"
     }
   ],
   "posts": [
