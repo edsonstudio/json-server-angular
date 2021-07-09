@@ -6,7 +6,8 @@
       "price": 1500.90,
       "promo": false,
       "pricePromo": 0,
-      "image": "tenis01.png"
+      "image": "tenis01.png",
+      "active": false
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "price": 1500.90,
       "promo": true,
       "pricePromo": 990.90,
-      "image": "tenis02.png"
+      "image": "tenis02.png",
+      "active": true
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "price": 1500.90,
       "promo": true,
       "pricePromo": 990.90,
-      "image": "tenis03.png"
+      "image": "tenis03.png",
+      "active": true
     }
   ],
   "produtos": [
