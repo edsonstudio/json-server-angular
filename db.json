@@ -1,4 +1,30 @@
 {
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Shoes Green",
+      "price": 1500.90,
+      "promo": false,
+      "pricePromo": 0,
+      "image": "tenis01.png"
+    },
+    {
+      "id": 2,
+      "name": "Nike Shoes Blue",
+      "price": 1500.90,
+      "promo": true,
+      "pricePromo": 990.90,
+      "image": "tenis02.png"
+    },
+    {
+      "id": 3,
+      "name": "Nike Shoes Pink",
+      "price": 1500.90,
+      "promo": true,
+      "pricePromo": 990.90,
+      "image": "tenis03.png"
+    }
+  ],
   "produtos": [
     {
       "id": 1,
