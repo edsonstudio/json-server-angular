@@ -28,6 +28,56 @@
       "active": true
     }
   ],
+  "todolist": [
+    {
+      "id": 1,
+      "nome": "Responder e-mails",
+      "finalizado": false,
+      "iniciado": true
+    },
+    {
+      "id": 2,
+      "nome": "Reunião com fornecedor",
+      "finalizado": true,
+      "iniciado": false
+    },
+    {
+      "id": 3,
+      "nome": "Finalizar curso de Angular",
+      "finalizado": false,
+      "iniciado": false
+    },
+    {
+      "id": 4,
+      "nome": "Publicar feedback no LinkedIn",
+      "finalizado": false,
+      "iniciado": false
+    },
+    {
+      "id": 5,
+      "nome": "Levar cachorro no veterinário",
+      "finalizado": false,
+      "iniciado": true
+    },
+    {
+      "id": 6,
+      "nome": "Ligar para Mãe",
+      "finalizado": false,
+      "iniciado": true
+    },
+    {
+      "id": 7,
+      "nome": "Comprar Café",
+      "finalizado": true,
+      "iniciado": false
+    },
+    {
+      "id": 8,
+      "nome": "Visitar desenvolvedor.io",
+      "finalizado": false,
+      "iniciado": false
+    }
+  ],
   "produtos": [
     {
       "id": 1,
@@ -112,10 +162,20 @@
     }
   ],
   "posts": [
-    { "id": 1, "title": "json-server", "author": "Edson" }
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "Edson"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "Edson" }
+  "profile": {
+    "name": "Edson"
+  }
 }
